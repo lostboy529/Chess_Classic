@@ -1,0 +1,1 @@
+("7.5" racket ("49a2149cd74f9c176b43b38d445953d1c97a6d5d" . "1b3aa8d31fddd263069c1b5d549a9b569a930ddb") #"C:\\Users\\Sparsh Kumar Jha\\Desktop\\Sparsh\\Code\\Chess-Classic-master\\Files\\chess.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
