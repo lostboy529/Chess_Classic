@@ -8,3 +8,13 @@ The AI uses minimax-algorithm along with alpha-beta prunning and various other o
 * Clone this repository
 * Install DrRacket
 * Open `run.rkt` in DrRacket and run it.
+
+![Home Screen](/Files/Images/HomeScreen.jpg?raw=true "Home Screen")
+
+![Choose Colour](/Files/Images/ColourOption.jpg?raw=true "Choose Colour")
+
+![Chess Board](/Files/Images/chessboarda.png?raw=true "Chess Board")
+
+![End](/Files/Images/End.png?raw=true "End Screen")
+
+![Credit](/Files/Images/Credits.jpg?raw=true "Credit")
